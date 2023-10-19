@@ -3,12 +3,12 @@
     {
       "question": "How can you get the type of arguments passed to a function?",
       "options": [
-        "using typeof operator",
+        "using typeof operator ",
         "using getType function",
         "Both of the above",
         "None of the above."
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 10
     },
     {
@@ -19,7 +19,7 @@
         " toLocaleString()",
         "toPrecision()"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 10
     },
     {
@@ -30,7 +30,7 @@
         " JavaScript is a function that is enclosed with the object to its inner function scope",
         "None of the mentioned"
       ],
-      "correctOption": 2,
+      "correctOption": 1,
       "points": 10
     },
     {
@@ -41,7 +41,7 @@
         "It is an ordered list of string",
         "It is an ordered list of functions"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 10
     },
     {
@@ -52,19 +52,19 @@
         "A URL that uses the special javascript:encoding",
         "A URL that uses the special javascript:stack"
       ],
-      "correctOption": 2,
+      "correctOption": 1,
       "points": 30
     },
     {
       "question": "Which of the following object is the main entry point to all client-side JavaScript features and APIs?",
       "options": ["Position", "Window", "Standard", "Location"],
-      "correctOption": 2,
+      "correctOption": 1,
       "points": 10
     },
     {
       "question": "Which of the following can be used to call a JavaScript Code Snippet?",
       "options": ["Function/Method", "Preprocessor", "Triggering Event", "RMI"],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 30
     },
     {
@@ -75,7 +75,7 @@
         "will throw errors and exceptions",
         "must be restricted to a Unix Machine only"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 20
     },
     {
@@ -86,7 +86,7 @@
         "Change the server location",
         "Performs handling of exceptions and occurrences"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 20
     },
     {
@@ -97,7 +97,7 @@
         "Both of the above.",
         "None of the above."
       ],
-      "correctOption": 3,
+      "correctOption": 2,
       "points": 30
     },
     {
@@ -108,7 +108,7 @@
         "getElementById('#result').innerHTML = 10+20;",
         "All of the above"
       ],
-      "correctOption": 1,
+      "correctOption": 0,
       "points": 30
     },
     {
@@ -119,7 +119,7 @@
         "Constant",
         "Constant with no initial value"
       ],
-      "correctOption": 3,
+      "correctOption": 2,
       "points": 10
     },
     {
@@ -130,19 +130,19 @@
         "The value of a variable declared with var can be changed while the value of a variable declared with let cannot be changed",
         "All of the above"
       ],
-      "correctOption": 2,
+      "correctOption": 1,
       "points": 30
     },
     {
       "question": "Which JavaScript method is used to call a function (a callback function) once for each array element?",
       "options": ["for()", "traverse()", "forEach()", "foreach()"],
-      "correctOption": 3,
+      "correctOption": 2,
       "points": 10
     },
     {
       "question": "Which JavaScript method is used to create a new array with array elements that passes a test?",
       "options": ["forEach()", "map()", "forMap()", "filter()"],
-      "correctOption": 4,
+      "correctOption": 3,
       "points": 20
     }
   ]
